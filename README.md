@@ -10,6 +10,7 @@ Es una aplicación que permite a los usuarios ingresar nombres de amigos en una 
     * Si ya finalizó el ingreso de nombres, presionar boton "Sortear amigo", donde se muestra en pantalla un mensaje de texto con el nombre del amigo secreto
       seleccionado
     * Si desea ingresar una nueva lista de amigos para sortear o reiniciar, solo debe seleccionar boton "Reiniciar juego"
+    
 2.- Condiciones Generales
 
     * No se puede dejar campo de texto vacío (No permite añadir ni sortear).
